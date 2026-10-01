@@ -36,3 +36,12 @@ build/
 
 ### Mac OS ###
 .DS_Store
+# IntelliJ project files
+.idea/
+
+# Old duplicate resources folder
+/resources/
+
+# Maven wrapper scripts not used in this project
+mvnw
+mvnw.cmd
